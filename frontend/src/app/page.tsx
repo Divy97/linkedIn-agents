@@ -296,7 +296,7 @@ export default function Home() {
       </section>
 
       {/* Interactive Demo */}
-      <section id="demo" className="py-20 bg-white">
+      <section id="demo" className="py-20 bg-gradient-to-b from-slate-50 to-slate-100">
         <div className="container mx-auto px-4 max-w-4xl">
           <div className={`${jakarta.className} text-center space-y-4 mb-12`}>
             <h2 className="text-3xl font-bold text-slate-900 tracking-tight">Try it live</h2>
@@ -407,7 +407,7 @@ export default function Home() {
       </section>
 
       {/* Security Section */}
-      <section className="py-20 bg-slate-900 text-white">
+      <section className="py-20 bg-slate-950 text-white">
         <div className="container mx-auto px-4 max-w-4xl text-center">
           <div className="space-y-8">
             <div className="h-20 w-20 rounded-full bg-black flex items-center justify-center mx-auto">
@@ -441,7 +441,7 @@ export default function Home() {
       </section>
 
       {/* Final CTA */}
-      <section className="py-20 bg-black">
+      <section className="py-20 bg-slate-950">
         <div className="container mx-auto px-4 max-w-4xl text-center text-white">
           <div className="space-y-8">
             <h2 className={`${jakarta.className} text-4xl font-extrabold tracking-tight`}>Ready to automate your LinkedIn growth?</h2>
@@ -461,7 +461,7 @@ export default function Home() {
       </section>
 
       {/* Footer */}
-      <footer className="bg-slate-900 text-slate-400 py-12">
+      <footer className="bg-slate-950 text-slate-400 py-12">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex items-center space-x-2">
