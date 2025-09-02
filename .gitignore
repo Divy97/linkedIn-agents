@@ -137,6 +137,7 @@ logs
 
 # Backend specific
 backend/dist/
+backend/.build/
 backend/.env
 backend/.env.local
 backend/.env.production
